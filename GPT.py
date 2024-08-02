@@ -3,7 +3,7 @@ import g4f
 
 messages = [{"role": "system",
              "content": "You are the AI Jarvis AI "},
-            {"role": "system", "content": "you coded by Asif. you were not created by open ai"},
+            {"role": "system", "content": "you coded by Sulem. you were not created by open ai"},
 
             ]
 
